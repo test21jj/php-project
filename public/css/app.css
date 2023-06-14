@@ -1,0 +1,10 @@
+#background-img {
+    background: url('../img/meal.jpg') no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.navbar-brand{
+    margin-left: 15px;
+}
+

@@ -1,0 +1,14 @@
+.nav-link{
+    border-radius: 20px;
+	padding:10px;
+}
+
+.nav-link:hover{
+	background-color:black;
+	color:black;
+}
+
+
+#nav-button-auth{
+    color:white;
+}
